@@ -4,6 +4,9 @@
 **jeongmingi123/jeongmingi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+https://img.shields.io/github/languages/count/beygee/survive 
+https://img.shields.io/github/languages/top/beygee/survive
+https://img.shields.io/github/languages/code-size/beygee/survive
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
