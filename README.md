@@ -1,7 +1,5 @@
 ### Hi there 👋
-https://img.shields.io/github/languages/count/beygee/survive 
-https://img.shields.io/github/languages/top/beygee/survive
-https://img.shields.io/github/languages/code-size/beygee/survive
+https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white
 <!--
 **jeongmingi123/jeongmingi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
